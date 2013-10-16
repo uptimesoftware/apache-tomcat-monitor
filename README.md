@@ -7,13 +7,13 @@ See http://uptimesoftware.github.io for more information.
 
 ### Category
 
-{ page.category }}
+plugin
 
 ### Version Compatibility
 
 
   
-    * Apache Tomcat Monitor 2.0 - 7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
+* Apache Tomcat Monitor 2.0 - 7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
   
 
 
@@ -43,8 +43,37 @@ None; no agent required
 
 ### Output Variables
 
-* Free Memory* Max Memory* Total Memory* Thread Count* Busy Threads* Max Threads* Bytes Received* Bytes Sent* Errors* Request Count* Max Time* Processing Time* Plugin Status
+
+* Free Memory
+
+* Max Memory
+
+* Total Memory
+
+* Thread Count
+
+* Busy Threads
+
+* Max Threads
+
+* Bytes Received
+
+* Bytes Sent
+
+* Errors
+
+* Request Count
+
+* Max Time
+
+* Processing Time
+
+* Plugin Status
+
 
 ### Languages Used
-* Shell/Batch* Java
+
+* Shell/Batch
+
+* Java
 
