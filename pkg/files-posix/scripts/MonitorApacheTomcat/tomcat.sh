@@ -1,4 +1,4 @@
-﻿#!/bin/sh
+#!/bin/sh
 
 export JAVA_HOME=../../jre/
 
