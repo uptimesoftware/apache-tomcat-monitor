@@ -11,7 +11,7 @@ plugin
 
 ### Version Compatibility
 
-
+* Apache Tomcat Monitor 3.1 - 7.3, 7.4, 7.5, 7.6
   
 * Apache Tomcat Monitor 2.0 - 7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
   
@@ -22,7 +22,7 @@ Monitors Apache Tomcat via the performance console.
 
 ### Supported Monitoring Stations
 
-7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
+7.3, 7.4, 7.5, 7.6, 7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
 
 ### Supported Agents
 None; no agent required
